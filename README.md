@@ -1,4 +1,4 @@
-# Poseidon-lb
+# Poseidon: The liquidation Bot
 
 This is a project created as a part of the market make hackathon.
 The aim of the project is to create a liquidation bot to liquidate unhealthy positions and earn profit.
