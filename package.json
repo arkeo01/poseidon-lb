@@ -1,0 +1,27 @@
+{
+  "name": "poseidon-lb",
+  "version": "1.0.0",
+  "description": "This is a project created as a part of the market make hackathon. The aim of the project is to create a liquidation bot to liquidate unhealthy positions and earn profit.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkeo01/poseidon-lb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkeo01/poseidon-lb/issues"
+  },
+  "homepage": "https://github.com/arkeo01/poseidon-lb#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.1",
+    "web3": "^1.3.3"
+  }
+}
